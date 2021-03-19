@@ -1,5 +1,0 @@
-test file
-
-fixed file
-
-브런치에서 고쳐봅시다.
